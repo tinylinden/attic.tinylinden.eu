@@ -1,0 +1,24 @@
+languageCode = "en"
+languageName = "English"
+weight = 1
+title = "attic.tinylinden.eu"
+
+[params]
+  displayName = "EN"
+  isoCode = "en"
+  rtl = false
+  dateFormat = "2006-01-02" # "2 January 2006"
+  # logo = "img/tinylinden.jpg"
+  # secondaryLogo = "img/secondary-logo.png"
+  description = "My awesome website"
+  copyright = "Copy, _right?_ :thinking_face:"
+
+[author]
+  name = "tinylinden"
+  image = "img/tinylinden.jpg"
+  headline = "I code and I know (some) things"
+  bio = "I code and I know (some) things"
+  links = [
+    { github = "https://github.com/tinylinden" },
+    { linkedin = "https://www.linkedin.com/in/tinylinden/" },
+  ]
