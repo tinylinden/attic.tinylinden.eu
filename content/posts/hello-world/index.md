@@ -5,7 +5,7 @@ tags: ["kotlin","doodles"]
 heroAuthor: "KOJI Agency"
 ---
 
-Because it's always nice to say hello, and I had to check the configuration somehow.
+Because it's polite to say hello, and I had to check the configuration somehow.
 
 ```kotlin
 ///usr/bin/env jbang "$0" "$@" ; exit $?
@@ -15,5 +15,7 @@ fun main() {
 }
 ```
 
-If that comment in the very first line looks unfamiliar -- check
-[JBang](https://www.jbang.dev/) for more information.
+If that comment in the first line looks cryptic -- check following repository
+for more details.
+
+{{< github repo="jbangdev/jbang" >}}
