@@ -15,7 +15,7 @@ summaryLength = 0
 buildDrafts = false
 buildFuture = false
 
-disqusShortname = "attic-tinylinden-eu"
+# disqusShortname = "attic-tinylinden-eu"
 
 # googleAnalytics = "G-XXXXXXXXX"
 

@@ -6,9 +6,9 @@ tags: ["tools","vs code"]
 featured: https://unsplash.com/photos/kn-UmDZQDjM
 ---
 
-I have been looking for free of charge replacement for [IntelliJ IDEA HTTP 
-client][idea-http-client], and I think that I have found something which 
-meets all my requiredments. Check out [Rest Client Plugin for VS Code][vs-rest-client].
+I have been looking for free of charge replacement of [IntelliJ IDEA HTTP 
+Client][idea-http-client], and I think that I have found something which 
+meets most of my requirements &ndash; [Rest Client Plugin for VS Code][vs-rest-client].
 
 More to come...
 
