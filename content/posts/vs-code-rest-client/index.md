@@ -1,5 +1,5 @@
 ---
-title: "Rest Client Plugin"
+title: "Visual Studio Code Rest Client Plugin"
 date: 2023-11-25T20:36:58+01:00
 draft: true
 tags: ["tools","vs code"]
