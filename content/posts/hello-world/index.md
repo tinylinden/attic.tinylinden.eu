@@ -7,7 +7,7 @@ tags: ["kotlin","doodles"]
 
 Because it's polite to say hello, and I had to check the configuration somehow.
 
-```kotlin
+```kotlin {title=hello.kt}
 ///usr/bin/env jbang "$0" "$@" ; exit $?
 
 fun main() {
