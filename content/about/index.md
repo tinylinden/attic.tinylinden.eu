@@ -9,6 +9,5 @@ showReadingTime: false
 
 > **Attic** noun, /ˈætɪk/: A room at the top of a house under the roof.
 
-The purpose of this site continues to evolve. For now it is just an
-attic -- place where I can keep my notes in more organized way than web browser 
-bookmarks.
+The purpose of this site continues to evolve. So for now I have nothing
+but the definition of the word _attic_.
