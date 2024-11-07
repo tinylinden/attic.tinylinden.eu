@@ -2,7 +2,7 @@
 title: "Choice Types"
 date: 2023-08-17T14:00:00+02:00
 draft: true
-tags: ["kotlin","ddd","fp"]
+tags: ["ddd","fp","kotlin"]
 summary: "Capturing business rules in type system"
 ---
 

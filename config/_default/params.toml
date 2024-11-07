@@ -49,7 +49,7 @@ defaultBackgroundImage = "img/bg.jpg"
   layoutBackgroundBlur = true # only used when layout equals background
 
 [article]
-  showDate = true
+  showDate = false
   showViews = false
   showLikes = false
   showDateUpdated = false
@@ -58,8 +58,8 @@ defaultBackgroundImage = "img/bg.jpg"
   heroStyle = "background" # valid options: basic, big, background, thumbAndBackground
   layoutBackgroundBlur = true # only used when heroStyle equals background or thumbAndBackground
   layoutBackgroundHeaderSpace = true # only used when heroStyle equals background
-  showBreadcrumbs = false
-  showDraftLabel = true
+  showBreadcrumbs = true
+  showDraftLabel = false
   showEdit = false
   # editURL = "https://github.com/username/repo/"
   editAppendPath = true
