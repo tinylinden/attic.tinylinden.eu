@@ -1,0 +1,49 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" version="24.8.1">
+  <diagram name="Page-1" id="N8ZbpiGRGIRZHxx_rcnO">
+    <mxGraphModel dx="1434" dy="-314" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#F7F9FB" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="RQrfbhy5ZBHukZ2OIo1w-40" value="&lt;div style=&quot;font-size: 21px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;PersonRecord&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;fillColor=none;strokeColor=#000000;fontFamily=Mynerve;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMynerve;fontSize=20;fontStyle=0;dashed=1;dashPattern=8 8;" parent="1" vertex="1">
+          <mxGeometry x="80" y="1405" width="160" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="RQrfbhy5ZBHukZ2OIo1w-61" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;sketch=1;curveFitting=1;jiggle=2;fontSize=21;fontFamily=Mynerve;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMynerve;labelBackgroundColor=#F7F9FB;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=open;endFill=0;endSize=11;" parent="1" source="JFmj0uYy-rrszK7HBXto-1" target="JFmj0uYy-rrszK7HBXto-2" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="510" y="1930" as="sourcePoint" />
+            <mxPoint x="310" y="1930" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RQrfbhy5ZBHukZ2OIo1w-46" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;New&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;fillColor=none;strokeColor=#000000;fontFamily=Mynerve;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMynerve;fontSize=21;fontStyle=0" parent="1" vertex="1">
+          <mxGeometry x="480" y="1300" width="160" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="JFmj0uYy-rrszK7HBXto-1" value="one of" style="rhombus;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;fillColor=#95DAFE;fillStyle=solid;fontFamily=Mynerve;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMynerve;fontSize=21;" parent="1" vertex="1">
+          <mxGeometry x="320" y="1400" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="JFmj0uYy-rrszK7HBXto-2" value="Active" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;fillColor=none;strokeColor=#000000;fontFamily=Mynerve;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMynerve;fontSize=21;fontStyle=0" parent="1" vertex="1">
+          <mxGeometry x="480" y="1405" width="160" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="JFmj0uYy-rrszK7HBXto-3" value="Archived" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;fillColor=none;strokeColor=#000000;fontFamily=Mynerve;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMynerve;fontSize=21;fontStyle=0" parent="1" vertex="1">
+          <mxGeometry x="480" y="1510" width="160" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="JFmj0uYy-rrszK7HBXto-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;sketch=1;curveFitting=1;jiggle=2;fontSize=21;fontFamily=Mynerve;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMynerve;labelBackgroundColor=#F7F9FB;endArrow=open;endFill=0;endSize=11;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=0;" parent="1" source="JFmj0uYy-rrszK7HBXto-1" target="RQrfbhy5ZBHukZ2OIo1w-46" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="280" y="1570" as="sourcePoint" />
+            <mxPoint x="320" y="2011" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JFmj0uYy-rrszK7HBXto-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;sketch=1;curveFitting=1;jiggle=2;fontSize=21;fontFamily=Mynerve;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMynerve;labelBackgroundColor=#F7F9FB;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="RQrfbhy5ZBHukZ2OIo1w-40" target="JFmj0uYy-rrszK7HBXto-1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="810" y="1890" as="sourcePoint" />
+            <mxPoint x="610" y="1890" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JFmj0uYy-rrszK7HBXto-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;sketch=1;curveFitting=1;jiggle=2;fontSize=21;fontFamily=Mynerve;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMynerve;labelBackgroundColor=#F7F9FB;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=open;endFill=0;endSize=11;exitX=1;exitY=0.5;exitDx=0;exitDy=0;curved=0;" parent="1" source="JFmj0uYy-rrszK7HBXto-1" target="JFmj0uYy-rrszK7HBXto-3" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="690" y="1490" as="sourcePoint" />
+            <mxPoint x="610" y="1930" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
