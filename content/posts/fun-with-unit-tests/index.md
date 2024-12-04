@@ -1,24 +1,23 @@
 ---
-title: "Unit Test Harness"
+title: "Fun with Unit Tests"
 date: 2024-10-13T21:37:09+02:00
 draft: true
 tags: ["tdd","testing","toolbox","kotlin"]
-summary: "What makes it quick, easy and fun to write tests"
+summary: "What makes writing tests quick, easy and enjoyable"
 ---
 
 ## How would you test this piece of code?
 
 That was the question I heard a few days ago. It wasn't a general one that 
-could be answered briefly with "well, you know -- use the given--when--then 
-(aka. [arrange--act--assert][arrange-act-assert]) pattern and just do it". 
+could be answered briefly with "well, you know -- use the given-when-then 
+(aka. [arrange-act-assert][arrange-act-assert]) pattern and just do it". 
 It was a question about very specific and rather complex piece of code.
+And expected answer was a concrete example of test implementation.
 
-I am aware that such question should trigger a discussion on how to refactor 
-the code to make it more test-friendly. But that is a topic for another story. 
-For now, let's focus on **what makes it quick, easy and fun to write tests**. 
-Even for complicated use case which operate on complex data structures and 
-communicate with several dependencies. Because in so-called real life we rarely
-check if 42 is equal to 42.
+Which made me wonder **what actually makes writing tests quick, easy and
+enjoyable**. Even for complicated use case which operate on complex data
+structures and communicate with several dependencies. Because in so-called 
+real life we rarely check if 42 is equal to 42.
 
 {{< figure
     src="template.png"
@@ -47,8 +46,8 @@ in culpa qui officia deserunt mollit anim id est laborum.
 
 {{< figure
     src="fixtures.png"
-    alt="..."
-    caption="..."
+    alt="fixtures"
+    caption="Fixtures"
     class="dark"
 >}}
 
@@ -59,8 +58,8 @@ they are considered as interfaces, carrying default implementation and state.
 
 {{< figure
     src="traits.png"
-    alt="..."
-    caption="..."
+    alt="traits"
+    caption="Traits"
 >}}
 
 ## 3. Then -- Check if Actual Result Meets Expectations
@@ -68,7 +67,7 @@ they are considered as interfaces, carrying default implementation and state.
 {{< figure
     src="assertions.png"
     alt="assertions"
-    caption="..."
+    caption="Assertions"
 >}}
 
 ...
