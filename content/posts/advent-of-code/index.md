@@ -1,7 +1,7 @@
 ---
 title: "Advent of Code"
 date: 2024-12-04T16:05:47+01:00
-tags: ["doodles","kotlin"]
+tags: ["__external","doodles","kotlin"]
 summary: "Over-engineered solutions for Advent of Code puzzles"
 externalUrl: "https://github.com/tinylinden/advent-of-code"
 ---
