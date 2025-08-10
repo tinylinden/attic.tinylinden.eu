@@ -9,5 +9,10 @@ showReadingTime: false
 
 > **Attic** noun, /ˈætɪk/: A room at the top of a house under the roof.
 
-The purpose of this site continues to evolve. So for now I have nothing
-but the definition of the word _attic_.
+In Poland, we use attics to store things that may come in handy someday.
+So welcome, wanderer, to my attic cluttered with notes addressed mainly
+to me from the future, but perhaps useful to you as well. Most of them
+are descriptions of software solutions that seemed to me quite neat and
+elegant. Some are probably an unsuccessful attempt to write down concepts
+that seem interesting to me.
+
